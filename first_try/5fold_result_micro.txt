@@ -1,0 +1,783 @@
+#################################################
+MultinomialNB()
+
+Training Accuracy scores
+[0.5180699  0.5189597  0.51816557 0.51816557 0.51796704]
+Mean Training Accuracy
+51.82655576691182
+
+Training Precision scores
+[0.5180699  0.5189597  0.51816557 0.51816557 0.51796704]
+Mean Training Precision
+0.5182655576691182
+
+Training Recall scores[0.5180699  0.5189597  0.51816557 0.51816557 0.51796704]
+Mean Training Recall0.5182655576691182
+
+Training F1 scores[0.5180699  0.5189597  0.51816557 0.51816557 0.51796704]
+Mean Training F1 Score0.5182655576691182
+
+Validation Accuracy scores[0.51904762 0.51548848 0.51866561 0.51866561 0.51945989]
+Mean Validation Accuracy51.82654412042815
+
+Validation Precision scores[0.51904762 0.51548848 0.51866561 0.51866561 0.51945989]
+Mean Validation Precision0.5182654412042815
+
+Validation Recall scores[0.51904762 0.51548848 0.51866561 0.51866561 0.51945989]
+Mean Validation Recall0.5182654412042815
+
+Validation F1 scores[0.51904762 0.51548848 0.51866561 0.51866561 0.51945989]
+Mean Validation F1 Score0.5182654412042815
+
+
+#################################################
+GaussianNB()
+
+Training Accuracy scores
+[0.30142971 0.30732579 0.30017868 0.295811   0.29878896]
+Mean Training Accuracy
+30.07068266708801
+
+Training Precision scores
+[0.30142971 0.30732579 0.30017868 0.295811   0.29878896]
+Mean Training Precision
+0.3007068266708801
+
+Training Recall scores[0.30142971 0.30732579 0.30017868 0.295811   0.29878896]
+Mean Training Recall0.3007068266708801
+
+Training F1 scores[0.30142971 0.30732579 0.30017868 0.295811   0.29878896]
+Mean Training F1 Score0.3007068266708801
+
+Validation Accuracy scores[0.29444444 0.28991263 0.27243844 0.27720413 0.29308975]
+Mean Validation Accuracy28.541788015179602
+
+Validation Precision scores[0.29444444 0.28991263 0.27243844 0.27720413 0.29308975]
+Mean Validation Precision0.28541788015179603
+
+Validation Recall scores[0.29444444 0.28991263 0.27243844 0.27720413 0.29308975]
+Mean Validation Recall0.28541788015179603
+
+Validation F1 scores[0.29444444 0.28991263 0.27243844 0.27720413 0.29308975]
+Mean Validation F1 Score0.28541788015179603
+
+
+#################################################
+BernoulliNB()
+
+Training Accuracy scores
+[0.51588562 0.51598174 0.51618027 0.51538614 0.51479055]
+Mean Training Accuracy
+51.56448634355175
+
+Training Precision scores
+[0.51588562 0.51598174 0.51618027 0.51538614 0.51479055]
+Mean Training Precision
+0.5156448634355175
+
+Training Recall scores[0.51588562 0.51598174 0.51618027 0.51538614 0.51479055]
+Mean Training Recall0.5156448634355175
+
+Training F1 scores[0.51588562 0.51598174 0.51618027 0.51538614 0.51479055]
+Mean Training F1 Score0.5156448634355175
+
+Validation Accuracy scores[0.51111111 0.51310564 0.50913423 0.51151708 0.51707705]
+Mean Validation Accuracy51.23890212690849
+
+Validation Precision scores[0.51111111 0.51310564 0.50913423 0.51151708 0.51707705]
+Mean Validation Precision0.5123890212690849
+
+Validation Recall scores[0.51111111 0.51310564 0.50913423 0.51151708 0.51707705]
+Mean Validation Recall0.5123890212690849
+
+Validation F1 scores[0.51111111 0.51310564 0.50913423 0.51151708 0.51707705]
+Mean Validation F1 Score0.5123890212690849
+
+
+#################################################
+ComplementNB()
+
+Training Accuracy scores
+[0.66759333 0.67242406 0.67262259 0.67103435 0.67679174]
+Mean Training Accuracy
+67.20932139498925
+
+Training Precision scores
+[0.66759333 0.67242406 0.67262259 0.67103435 0.67679174]
+Mean Training Precision
+0.6720932139498924
+
+Training Recall scores[0.66759333 0.67242406 0.67262259 0.67103435 0.67679174]
+Mean Training Recall0.6720932139498924
+
+Training F1 scores[0.66759333 0.67242406 0.67262259 0.67103435 0.67679174]
+Mean Training F1 Score0.6720932139498924
+
+Validation Accuracy scores[0.67936508 0.67593328 0.66004766 0.66084194 0.65210485]
+Mean Validation Accuracy66.56585599556212
+
+Validation Precision scores[0.67936508 0.67593328 0.66004766 0.66084194 0.65210485]
+Mean Validation Precision0.6656585599556212
+
+Validation Recall scores[0.67936508 0.67593328 0.66004766 0.66084194 0.65210485]
+Mean Validation Recall0.6656585599556212
+
+Validation F1 scores[0.67936508 0.67593328 0.66004766 0.66084194 0.65210485]
+Mean Validation F1 Score0.6656585599556212
+
+
+#################################################
+RandomForestClassifier(n_jobs=10, random_state=0)
+
+Training Accuracy scores
+[1. 1. 1. 1. 1.]
+Mean Training Accuracy
+100.0
+
+Training Precision scores
+[1. 1. 1. 1. 1.]
+Mean Training Precision
+1.0
+
+Training Recall scores[1. 1. 1. 1. 1.]
+Mean Training Recall1.0
+
+Training F1 scores[1. 1. 1. 1. 1.]
+Mean Training F1 Score1.0
+
+Validation Accuracy scores[0.84126984 0.85702939 0.85544083 0.84193805 0.84352661]
+Mean Validation Accuracy84.78409420426894
+
+Validation Precision scores[0.84126984 0.85702939 0.85544083 0.84193805 0.84352661]
+Mean Validation Precision0.8478409420426894
+
+Validation Recall scores[0.84126984 0.85702939 0.85544083 0.84193805 0.84352661]
+Mean Validation Recall0.8478409420426894
+
+Validation F1 scores[0.84126984 0.85702939 0.85544083 0.84193805 0.84352661]
+Mean Validation F1 Score0.8478409420426894
+
+
+#################################################
+DecisionTreeClassifier()
+
+Training Accuracy scores
+[1. 1. 1. 1. 1.]
+Mean Training Accuracy
+100.0
+
+Training Precision scores
+[1. 1. 1. 1. 1.]
+Mean Training Precision
+1.0
+
+Training Recall scores[1. 1. 1. 1. 1.]
+Mean Training Recall1.0
+
+Training F1 scores[1. 1. 1. 1. 1.]
+Mean Training F1 Score1.0
+
+Validation Accuracy scores[0.81269841 0.82764098 0.79507546 0.80063542 0.79666402]
+Mean Validation Accuracy80.65428596643847
+
+Validation Precision scores[0.81269841 0.82764098 0.79507546 0.80063542 0.79666402]
+Mean Validation Precision0.8065428596643847
+
+Validation Recall scores[0.81269841 0.82764098 0.79507546 0.80063542 0.79666402]
+Mean Validation Recall0.8065428596643847
+
+Validation F1 scores[0.81269841 0.82764098 0.79507546 0.80063542 0.79666402]
+Mean Validation F1 Score0.8065428596643847
+
+
+#################################################
+SVC()
+
+Training Accuracy scores
+[0.70671168 0.71173317 0.71034346 0.71490967 0.71391701]
+Mean Training Accuracy
+71.1522998279767
+
+Training Precision scores
+[0.70671168 0.71173317 0.71034346 0.71490967 0.71391701]
+Mean Training Precision
+0.7115229982797671
+
+Training Recall scores[0.70671168 0.71173317 0.71034346 0.71490967 0.71391701]
+Mean Training Recall0.7115229982797671
+
+Training F1 scores[0.70671168 0.71173317 0.71034346 0.71490967 0.71391701]
+Mean Training F1 Score0.7115229982797671
+
+Validation Accuracy scores[0.6952381  0.69658459 0.68069897 0.68546465 0.67831612]
+Mean Validation Accuracy68.72604864026627
+
+Validation Precision scores[0.6952381  0.69658459 0.68069897 0.68546465 0.67831612]
+Mean Validation Precision0.6872604864026627
+
+Validation Recall scores[0.6952381  0.69658459 0.68069897 0.68546465 0.67831612]
+Mean Validation Recall0.6872604864026627
+
+Validation F1 scores[0.6952381  0.69658459 0.68069897 0.68546465 0.67831612]
+Mean Validation F1 Score0.6872604864026627
+
+
+#################################################
+KNeighborsClassifier(n_jobs=10)
+
+Training Accuracy scores
+[0.64138205 0.65118126 0.65237244 0.65316657 0.65177685]
+Mean Training Accuracy
+64.99758341095591
+
+Training Precision scores
+[0.64138205 0.65118126 0.65237244 0.65316657 0.65177685]
+Mean Training Precision
+0.6499758341095591
+
+Training Recall scores[0.64138205 0.65118126 0.65237244 0.65316657 0.65177685]
+Mean Training Recall0.6499758341095591
+
+Training F1 scores[0.64138205 0.65118126 0.65237244 0.65316657 0.65177685]
+Mean Training F1 Score0.6499758341095591
+
+Validation Accuracy scores[0.56587302 0.57664813 0.55123114 0.55837967 0.58379666]
+Mean Validation Accuracy56.718572311106065
+
+Validation Precision scores[0.56587302 0.57664813 0.55123114 0.55837967 0.58379666]
+Mean Validation Precision0.5671857231110606
+
+Validation Recall scores[0.56587302 0.57664813 0.55123114 0.55837967 0.58379666]
+Mean Validation Recall0.5671857231110606
+
+Validation F1 scores[0.56587302 0.57664813 0.55123114 0.55837967 0.58379666]
+Mean Validation F1 Score0.5671857231110606
+
+
+#################################################
+LogisticRegression(max_iter=5000, n_jobs=10)
+
+Training Accuracy scores
+[0.71862589 0.72046853 0.71749057 0.72404209 0.72563034]
+Mean Training Accuracy
+72.12514840537449
+
+Training Precision scores
+[0.71862589 0.72046853 0.71749057 0.72404209 0.72563034]
+Mean Training Precision
+0.721251484053745
+
+Training Recall scores[0.71862589 0.72046853 0.71749057 0.72404209 0.72563034]
+Mean Training Recall0.721251484053745
+
+Training F1 scores[0.71862589 0.72046853 0.71749057 0.72404209 0.72563034]
+Mean Training F1 Score0.721251484053745
+
+Validation Accuracy scores[0.70714286 0.70849881 0.69976172 0.70214456 0.69579031]
+Mean Validation Accuracy70.26676500624079
+
+Validation Precision scores[0.70714286 0.70849881 0.69976172 0.70214456 0.69579031]
+Mean Validation Precision0.7026676500624078
+
+Validation Recall scores[0.70714286 0.70849881 0.69976172 0.70214456 0.69579031]
+Mean Validation Recall0.7026676500624078
+
+Validation F1 scores[0.70714286 0.70849881 0.69976172 0.70214456 0.69579031]
+Mean Validation F1 Score0.7026676500624078
+
+
+#################################################
+LinearDiscriminantAnalysis()
+
+Training Accuracy scores
+[0.68606037 0.68155648 0.6938654  0.68513004 0.68671828]
+Mean Training Accuracy
+68.66661131771042
+
+Training Precision scores
+[0.68606037 0.68155648 0.6938654  0.68513004 0.68671828]
+Mean Training Precision
+0.6866661131771041
+
+Training Recall scores[0.68606037 0.68155648 0.6938654  0.68513004 0.68671828]
+Mean Training Recall0.6866661131771041
+
+Training F1 scores[0.68606037 0.68155648 0.6938654  0.68513004 0.68671828]
+Mean Training F1 Score0.6866661131771041
+
+Validation Accuracy scores[0.67460317 0.67275616 0.67116759 0.66401906 0.65845909]
+Mean Validation Accuracy66.82010161755991
+
+Validation Precision scores[0.67460317 0.67275616 0.67116759 0.66401906 0.65845909]
+Mean Validation Precision0.6682010161755991
+
+Validation Recall scores[0.67460317 0.67275616 0.67116759 0.66401906 0.65845909]
+Mean Validation Recall0.6682010161755991
+
+Validation F1 scores[0.67460317 0.67275616 0.67116759 0.66401906 0.65845909]
+Mean Validation F1 Score0.6682010161755991
+
+
+#################################################
+BaggingClassifier(estimator=MultinomialNB(), n_jobs=10)
+
+Training Accuracy scores
+[0.5180699  0.5189597  0.51816557 0.51816557 0.51796704]
+Mean Training Accuracy
+51.82655576691182
+
+Training Precision scores
+[0.5180699  0.5189597  0.51816557 0.51816557 0.51796704]
+Mean Training Precision
+0.5182655576691182
+
+Training Recall scores[0.5180699  0.5189597  0.51816557 0.51816557 0.51796704]
+Mean Training Recall0.5182655576691182
+
+Training F1 scores[0.5180699  0.5189597  0.51816557 0.51816557 0.51796704]
+Mean Training F1 Score0.5182655576691182
+
+Validation Accuracy scores[0.51904762 0.51548848 0.51866561 0.51866561 0.51945989]
+Mean Validation Accuracy51.82654412042815
+
+Validation Precision scores[0.51904762 0.51548848 0.51866561 0.51866561 0.51945989]
+Mean Validation Precision0.5182654412042815
+
+Validation Recall scores[0.51904762 0.51548848 0.51866561 0.51866561 0.51945989]
+Mean Validation Recall0.5182654412042815
+
+Validation F1 scores[0.51904762 0.51548848 0.51866561 0.51866561 0.51945989]
+Mean Validation F1 Score0.5182654412042815
+
+
+#################################################
+BaggingClassifier(estimator=GaussianNB(), n_jobs=10)
+
+Training Accuracy scores
+[0.30321684 0.30871551 0.30395076 0.295811   0.29998015]
+Mean Training Accuracy
+30.233485077779477
+
+Training Precision scores
+[0.30321684 0.30871551 0.30395076 0.295811   0.29998015]
+Mean Training Precision
+0.30233485077779476
+
+Training Recall scores[0.30321684 0.30871551 0.30395076 0.295811   0.29998015]
+Mean Training Recall0.30233485077779476
+
+Training F1 scores[0.30321684 0.30871551 0.30395076 0.295811   0.29998015]
+Mean Training F1 Score0.30233485077779476
+
+Validation Accuracy scores[0.29761905 0.28991263 0.28355838 0.27958697 0.29150119]
+Mean Validation Accuracy28.843564431332503
+
+Validation Precision scores[0.29761905 0.28991263 0.28355838 0.27958697 0.29150119]
+Mean Validation Precision0.288435644313325
+
+Validation Recall scores[0.29761905 0.28991263 0.28355838 0.27958697 0.29150119]
+Mean Validation Recall0.288435644313325
+
+Validation F1 scores[0.29761905 0.28991263 0.28355838 0.27958697 0.29150119]
+Mean Validation F1 Score0.288435644313325
+
+
+#################################################
+BaggingClassifier(estimator=BernoulliNB(), n_jobs=10)
+
+Training Accuracy scores
+[0.51568705 0.51598174 0.51598174 0.51518761 0.51439349]
+Mean Training Accuracy
+51.544632467950045
+
+Training Precision scores
+[0.51568705 0.51598174 0.51598174 0.51518761 0.51439349]
+Mean Training Precision
+0.5154463246795005
+
+Training Recall scores[0.51568705 0.51598174 0.51598174 0.51518761 0.51439349]
+Mean Training Recall0.5154463246795005
+
+Training F1 scores[0.51568705 0.51598174 0.51598174 0.51518761 0.51439349]
+Mean Training F1 Score0.5154463246795005
+
+Validation Accuracy scores[0.51031746 0.51310564 0.50913423 0.51151708 0.51628276]
+Mean Validation Accuracy51.20714348752475
+
+Validation Precision scores[0.51031746 0.51310564 0.50913423 0.51151708 0.51628276]
+Mean Validation Precision0.5120714348752475
+
+Validation Recall scores[0.51031746 0.51310564 0.50913423 0.51151708 0.51628276]
+Mean Validation Recall0.5120714348752475
+
+Validation F1 scores[0.51031746 0.51310564 0.50913423 0.51151708 0.51628276]
+Mean Validation F1 Score0.5120714348752475
+
+
+#################################################
+BaggingClassifier(estimator=ComplementNB(), n_jobs=10)
+
+Training Accuracy scores
+[0.66799047 0.67123288 0.67182847 0.66984316 0.67480643]
+Mean Training Accuracy
+67.11402815353831
+
+Training Precision scores
+[0.66799047 0.67123288 0.67182847 0.66984316 0.67480643]
+Mean Training Precision
+0.6711402815353832
+
+Training Recall scores[0.66799047 0.67123288 0.67182847 0.66984316 0.67480643]
+Mean Training Recall0.6711402815353832
+
+Training F1 scores[0.66799047 0.67123288 0.67182847 0.66984316 0.67480643]
+Mean Training F1 Score0.6711402815353832
+
+Validation Accuracy scores[0.67380952 0.67593328 0.65925338 0.66322478 0.649722  ]
+Mean Validation Accuracy66.43885926094029
+
+Validation Precision scores[0.67380952 0.67593328 0.65925338 0.66322478 0.649722  ]
+Mean Validation Precision0.6643885926094029
+
+Validation Recall scores[0.67380952 0.67593328 0.65925338 0.66322478 0.649722  ]
+Mean Validation Recall0.6643885926094029
+
+Validation F1 scores[0.67380952 0.67593328 0.65925338 0.66322478 0.649722  ]
+Mean Validation F1 Score0.6643885926094029
+
+
+#################################################
+BaggingClassifier(estimator=RandomForestClassifier(), n_jobs=10)
+
+Training Accuracy scores
+[0.99324861 0.99265436 0.99245583 0.99086758 0.99186023]
+Mean Training Accuracy
+99.22173217633515
+
+Training Precision scores
+[0.99324861 0.99265436 0.99245583 0.99086758 0.99186023]
+Mean Training Precision
+0.9922173217633515
+
+Training Recall scores[0.99324861 0.99265436 0.99245583 0.99086758 0.99186023]
+Mean Training Recall0.9922173217633515
+
+Training F1 scores[0.99324861 0.99265436 0.99245583 0.99086758 0.99186023]
+Mean Training F1 Score0.9922173217633515
+
+Validation Accuracy scores[0.84206349 0.84590945 0.84352661 0.83637808 0.83637808]
+Mean Validation Accuracy84.08511416215944
+
+Validation Precision scores[0.84206349 0.84590945 0.84352661 0.83637808 0.83637808]
+Mean Validation Precision0.8408511416215945
+
+Validation Recall scores[0.84206349 0.84590945 0.84352661 0.83637808 0.83637808]
+Mean Validation Recall0.8408511416215945
+
+Validation F1 scores[0.84206349 0.84590945 0.84352661 0.83637808 0.83637808]
+Mean Validation F1 Score0.8408511416215942
+
+
+#################################################
+BaggingClassifier(estimator=DecisionTreeClassifier(), n_jobs=10)
+
+Training Accuracy scores
+[0.99205719 0.99245583 0.99205877 0.99205877 0.99305142]
+Mean Training Accuracy
+99.23363929794814
+
+Training Precision scores
+[0.99205719 0.99245583 0.99205877 0.99205877 0.99305142]
+Mean Training Precision
+0.9923363929794815
+
+Training Recall scores[0.99205719 0.99245583 0.99205877 0.99205877 0.99305142]
+Mean Training Recall0.9923363929794815
+
+Training F1 scores[0.99205719 0.99245583 0.99205877 0.99205877 0.99305142]
+Mean Training F1 Score0.9923363929794815
+
+Validation Accuracy scores[0.85238095 0.85861795 0.84988086 0.84590945 0.8395552 ]
+Mean Validation Accuracy84.92688830893755
+
+Validation Precision scores[0.85238095 0.85861795 0.84988086 0.84590945 0.8395552 ]
+Mean Validation Precision0.8492688830893755
+
+Validation Recall scores[0.85238095 0.85861795 0.84988086 0.84590945 0.8395552 ]
+Mean Validation Recall0.8492688830893755
+
+Validation F1 scores[0.85238095 0.85861795 0.84988086 0.84590945 0.8395552 ]
+Mean Validation F1 Score0.8492688830893755
+
+
+#################################################
+BaggingClassifier(estimator=SVC(), n_jobs=10)
+
+Training Accuracy scores
+[0.7132645  0.71669645 0.71232877 0.72086559 0.72225531]
+Mean Training Accuracy
+71.70821228705829
+
+Training Precision scores
+[0.7132645  0.71669645 0.71232877 0.72086559 0.72225531]
+Mean Training Precision
+0.7170821228705829
+
+Training Recall scores[0.7132645  0.71669645 0.71232877 0.72086559 0.72225531]
+Mean Training Recall0.7170821228705829
+
+Training F1 scores[0.7132645  0.71669645 0.71232877 0.72086559 0.72225531]
+Mean Training F1 Score0.7170821228705829
+
+Validation Accuracy scores[0.69761905 0.69976172 0.68546465 0.68943606 0.68546465]
+Mean Validation Accuracy69.15492265214266
+
+Validation Precision scores[0.69761905 0.69976172 0.68546465 0.68943606 0.68546465]
+Mean Validation Precision0.6915492265214266
+
+Validation Recall scores[0.69761905 0.69976172 0.68546465 0.68943606 0.68546465]
+Mean Validation Recall0.6915492265214266
+
+Validation F1 scores[0.69761905 0.69976172 0.68546465 0.68943606 0.68546465]
+Mean Validation F1 Score0.6915492265214266
+
+
+#################################################
+BaggingClassifier(estimator=KNeighborsClassifier(), n_jobs=10)
+
+Training Accuracy scores
+[0.66858618 0.67659321 0.67679174 0.67222553 0.6803653 ]
+Mean Training Accuracy
+67.49123917482433
+
+Training Precision scores
+[0.66858618 0.67659321 0.67679174 0.67222553 0.6803653 ]
+Mean Training Precision
+0.6749123917482432
+
+Training Recall scores[0.66858618 0.67659321 0.67679174 0.67222553 0.6803653 ]
+Mean Training Recall0.6749123917482432
+
+Training F1 scores[0.66858618 0.67659321 0.67679174 0.67222553 0.6803653 ]
+Mean Training F1 Score0.6749123917482432
+
+Validation Accuracy scores[0.55396825 0.56473392 0.55361398 0.53693407 0.5782367 ]
+Mean Validation Accuracy55.74973839151759
+
+Validation Precision scores[0.55396825 0.56473392 0.55361398 0.53693407 0.5782367 ]
+Mean Validation Precision0.5574973839151759
+
+Validation Recall scores[0.55396825 0.56473392 0.55361398 0.53693407 0.5782367 ]
+Mean Validation Recall0.5574973839151759
+
+Validation F1 scores[0.55396825 0.56473392 0.55361398 0.53693407 0.5782367 ]
+Mean Validation F1 Score0.5574973839151759
+
+
+#################################################
+BaggingClassifier(estimator=LogisticRegression(max_iter=5000), n_jobs=10)
+
+Training Accuracy scores
+[0.7132645  0.71967441 0.71351995 0.71967441 0.72384356]
+Mean Training Accuracy
+71.79953648797154
+
+Training Precision scores
+[0.7132645  0.71967441 0.71351995 0.71967441 0.72384356]
+Mean Training Precision
+0.7179953648797154
+
+Training Recall scores[0.7132645  0.71967441 0.71351995 0.71967441 0.72384356]
+Mean Training Recall0.7179953648797154
+
+Training F1 scores[0.7132645  0.71967441 0.71351995 0.71967441 0.72384356]
+Mean Training F1 Score0.7179953648797154
+
+Validation Accuracy scores[0.6984127  0.7045274  0.69658459 0.69499603 0.69023034]
+Mean Validation Accuracy69.69502124386953
+
+Validation Precision scores[0.6984127  0.7045274  0.69658459 0.69499603 0.69023034]
+Mean Validation Precision0.6969502124386954
+
+Validation Recall scores[0.6984127  0.7045274  0.69658459 0.69499603 0.69023034]
+Mean Validation Recall0.6969502124386954
+
+Validation F1 scores[0.6984127  0.7045274  0.69658459 0.69499603 0.69023034]
+Mean Validation F1 Score0.6969502124386954
+
+
+#################################################
+BaggingClassifier(estimator=LinearDiscriminantAnalysis(), n_jobs=10)
+
+Training Accuracy scores
+[0.69420175 0.68314473 0.69684336 0.68632122 0.68850506]
+Mean Training Accuracy
+68.98032242107372
+
+Training Precision scores
+[0.69420175 0.68314473 0.69684336 0.68632122 0.68850506]
+Mean Training Precision
+0.6898032242107373
+
+Training Recall scores[0.69420175 0.68314473 0.69684336 0.68632122 0.68850506]
+Mean Training Recall0.6898032242107373
+
+Training F1 scores[0.69420175 0.68314473 0.69684336 0.68632122 0.68850506]
+Mean Training F1 Score0.6898032242107373
+
+Validation Accuracy scores[0.68253968 0.67593328 0.67752184 0.66084194 0.66481334]
+Mean Validation Accuracy67.23300175246165
+
+Validation Precision scores[0.68253968 0.67593328 0.67752184 0.66084194 0.66481334]
+Mean Validation Precision0.6723300175246164
+
+Validation Recall scores[0.68253968 0.67593328 0.67752184 0.66084194 0.66481334]
+Mean Validation Recall0.6723300175246164
+
+Validation F1 scores[0.68253968 0.67593328 0.67752184 0.66084194 0.66481334]
+Mean Validation F1 Score0.6723300175246164
+
+
+#################################################
+GradientBoostingClassifier()
+
+Training Accuracy scores
+[0.9819301  0.97935279 0.98193369 0.98590431 0.98153663]
+Mean Training Accuracy
+98.21315040739827
+
+Training Precision scores
+[0.9819301  0.97935279 0.98193369 0.98590431 0.98153663]
+Mean Training Precision
+0.9821315040739828
+
+Training Recall scores[0.9819301  0.97935279 0.98193369 0.98590431 0.98153663]
+Mean Training Recall0.9821315040739828
+
+Training F1 scores[0.9819301  0.97935279 0.98193369 0.98590431 0.98153663]
+Mean Training F1 Score0.9821315040739828
+
+Validation Accuracy scores[0.86587302 0.89118348 0.88006354 0.86894361 0.87132645]
+Mean Validation Accuracy87.5478018583658
+
+Validation Precision scores[0.86587302 0.89118348 0.88006354 0.86894361 0.87132645]
+Mean Validation Precision0.875478018583658
+
+Validation Recall scores[0.86587302 0.89118348 0.88006354 0.86894361 0.87132645]
+Mean Validation Recall0.875478018583658
+
+Validation F1 scores[0.86587302 0.89118348 0.88006354 0.86894361 0.87132645]
+Mean Validation F1 Score0.875478018583658
+
+
+#################################################
+AdaBoostClassifier()
+
+Training Accuracy scores
+[0.5200556  0.39626762 0.51141553 0.28608299 0.42803256]
+Mean Training Accuracy
+42.83708578757071
+
+Training Precision scores
+[0.5200556  0.39626762 0.51141553 0.28608299 0.42803256]
+Mean Training Precision
+0.42837085787570706
+
+Training Recall scores[0.5200556  0.39626762 0.51141553 0.28608299 0.42803256]
+Mean Training Recall0.42837085787570706
+
+Training F1 scores[0.5200556  0.39626762 0.51141553 0.28608299 0.42803256]
+Mean Training F1 Score0.42837085787570706
+
+Validation Accuracy scores[0.52063492 0.38760921 0.49960286 0.29070691 0.42970612]
+Mean Validation Accuracy42.565200398401345
+
+Validation Precision scores[0.52063492 0.38760921 0.49960286 0.29070691 0.42970612]
+Mean Validation Precision0.4256520039840135
+
+Validation Recall scores[0.52063492 0.38760921 0.49960286 0.29070691 0.42970612]
+Mean Validation Recall0.4256520039840135
+
+Validation F1 scores[0.52063492 0.38760921 0.49960286 0.29070691 0.42970612]
+Mean Validation F1 Score0.4256520039840135
+
+
+#################################################
+StackingClassifier(estimators=[('mnb', MultinomialNB()), ('gnb', GaussianNB()),
+                               ('bnb', BernoulliNB()), ('cnb', ComplementNB()),
+                               ('rf', RandomForestClassifier()),
+                               ('dt', DecisionTreeClassifier()), ('svc', SVC()),
+                               ('lr', LogisticRegression(max_iter=100000000)),
+                               ('knn', KNeighborsClassifier()),
+                               ('lda', LinearDiscriminantAnalysis())],
+                   n_jobs=10)
+
+Training Accuracy scores
+[1.         0.99940441 0.99940441 0.99980147 0.99940441]
+Mean Training Accuracy
+99.96029382568989
+
+Training Precision scores
+[1.         0.99940441 0.99940441 0.99980147 0.99940441]
+Mean Training Precision
+0.9996029382568989
+
+Training Recall scores[1.         0.99940441 0.99940441 0.99980147 0.99940441]
+Mean Training Recall0.9996029382568989
+
+Training F1 scores[1.         0.99940441 0.99940441 0.99980147 0.99940441]
+Mean Training F1 Score0.9996029382568989
+
+Validation Accuracy scores[0.86111111 0.88482923 0.87212073 0.85861795 0.87529786]
+Mean Validation Accuracy87.03953755184891
+
+Validation Precision scores[0.86111111 0.88482923 0.87212073 0.85861795 0.87529786]
+Mean Validation Precision0.8703953755184891
+
+Validation Recall scores[0.86111111 0.88482923 0.87212073 0.85861795 0.87529786]
+Mean Validation Recall0.8703953755184891
+
+Validation F1 scores[0.86111111 0.88482923 0.87212073 0.85861795 0.87529786]
+Mean Validation F1 Score0.8703953755184891
+
+
+#################################################
+VotingClassifier(estimators=[('mnb', MultinomialNB()), ('gnb', GaussianNB()),
+                             ('bnb', BernoulliNB()), ('cnb', ComplementNB()),
+                             ('rf', RandomForestClassifier()),
+                             ('dt', DecisionTreeClassifier()),
+                             ('svc', SVC(probability=True)),
+                             ('lr', LogisticRegression(max_iter=10000)),
+                             ('knn', KNeighborsClassifier()),
+                             ('lda', LinearDiscriminantAnalysis())],
+                 n_jobs=10)
+
+Training Accuracy scores
+[0.71505163 0.72086559 0.72304943 0.72304943 0.72007147]
+Mean Training Accuracy
+72.04175124728322
+
+Training Precision scores
+[0.71505163 0.72086559 0.72304943 0.72304943 0.72007147]
+Mean Training Precision
+0.7204175124728321
+
+Training Recall scores[0.71505163 0.72086559 0.72304943 0.72304943 0.72007147]
+Mean Training Recall0.7204175124728321
+
+Training F1 scores[0.71505163 0.72086559 0.72304943 0.72304943 0.72007147]
+Mean Training F1 Score0.7204175124728321
+
+Validation Accuracy scores[0.69285714 0.69340747 0.67990469 0.68308181 0.68705322]
+Mean Validation Accuracy68.7260864631794
+
+Validation Precision scores[0.69285714 0.69340747 0.67990469 0.68308181 0.68705322]
+Mean Validation Precision0.6872608646317939
+
+Validation Recall scores[0.69285714 0.69340747 0.67990469 0.68308181 0.68705322]
+Mean Validation Recall0.6872608646317939
+
+Validation F1 scores[0.69285714 0.69340747 0.67990469 0.68308181 0.68705322]
+Mean Validation F1 Score0.6872608646317939
+
+
