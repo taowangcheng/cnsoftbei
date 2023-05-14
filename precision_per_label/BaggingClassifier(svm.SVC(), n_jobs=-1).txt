@@ -1,0 +1,10 @@
+Model: BaggingClassifier(svm.SVC(), n_jobs=-1)
+Accuracy: 0.6916
+F1-score: 0.4734
+Accuracy by class:
+class_0: 0.9963
+class_1: 0.3404
+class_2: 0.4835
+class_3: 0.0476
+class_4: 0.0000
+class_5: 0.9231

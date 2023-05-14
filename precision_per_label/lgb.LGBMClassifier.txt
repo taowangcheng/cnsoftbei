@@ -1,0 +1,10 @@
+Model: lgb.LGBMClassifier
+Accuracy: 0.8815
+F1-score: 0.8593
+Accuracy by class:
+class_0: 0.9560
+class_1: 0.7660
+class_2: 0.6374
+class_3: 0.9286
+class_4: 0.8750
+class_5: 0.9615

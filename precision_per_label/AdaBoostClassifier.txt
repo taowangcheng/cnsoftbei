@@ -1,0 +1,10 @@
+Model: AdaBoostClassifier
+Accuracy: 0.4918
+F1-score: 0.4288
+Accuracy by class:
+class_0: 0.5311
+class_1: 0.0638
+class_2: 0.1538
+class_3: 0.7857
+class_4: 0.8333
+class_5: 0.9615

@@ -1,0 +1,10 @@
+Model: RandomForestClassifier
+Accuracy: 0.8550
+F1-score: 0.8239
+Accuracy by class:
+class_0: 0.9927
+class_1: 0.6596
+class_2: 0.6264
+class_3: 0.7857
+class_4: 0.8750
+class_5: 0.9615

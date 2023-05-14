@@ -1,0 +1,10 @@
+Model: BaggingClassifier(DecisionTreeClassifier(), n_jobs=-1)
+Accuracy: 0.8576
+F1-score: 0.8346
+Accuracy by class:
+class_0: 0.9451
+class_1: 0.7021
+class_2: 0.6813
+class_3: 0.8571
+class_4: 0.8750
+class_5: 0.9615

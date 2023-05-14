@@ -1,0 +1,10 @@
+Model: DecisionTreeClassifier
+Accuracy: 0.8108
+F1-score: 0.7894
+Accuracy by class:
+class_0: 0.8645
+class_1: 0.5957
+class_2: 0.6813
+class_3: 0.8095
+class_4: 0.8750
+class_5: 0.9615

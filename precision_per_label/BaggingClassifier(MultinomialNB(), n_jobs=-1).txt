@@ -1,0 +1,10 @@
+Model: BaggingClassifier(MultinomialNB(), n_jobs=-1)
+Accuracy: 0.5224
+F1-score: 0.1280
+Accuracy by class:
+class_0: 1.0000
+class_1: 0.0000
+class_2: 0.0000
+class_3: 0.0000
+class_4: 0.0000
+class_5: 0.0385

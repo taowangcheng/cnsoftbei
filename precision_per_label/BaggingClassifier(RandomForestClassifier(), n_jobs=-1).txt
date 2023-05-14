@@ -1,0 +1,10 @@
+Model: BaggingClassifier(RandomForestClassifier(), n_jobs=-1)
+Accuracy: 0.8443
+F1-score: 0.8103
+Accuracy by class:
+class_0: 0.9963
+class_1: 0.6809
+class_2: 0.5824
+class_3: 0.6905
+class_4: 0.8333
+class_5: 0.9615

@@ -1,0 +1,10 @@
+Model: LogisticRegression
+Accuracy: 0.6954
+F1-score: 0.5405
+Accuracy by class:
+class_0: 0.9451
+class_1: 0.3617
+class_2: 0.5055
+class_3: 0.1905
+class_4: 0.2917
+class_5: 0.9231

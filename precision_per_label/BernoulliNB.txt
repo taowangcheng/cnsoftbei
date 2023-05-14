@@ -1,0 +1,10 @@
+Model: BernoulliNB
+Accuracy: 0.5153
+F1-score: 0.1163
+Accuracy by class:
+class_0: 0.9927
+class_1: 0.0000
+class_2: 0.0000
+class_3: 0.0000
+class_4: 0.0000
+class_5: 0.0000

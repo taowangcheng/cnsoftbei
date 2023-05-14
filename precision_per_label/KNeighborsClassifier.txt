@@ -1,0 +1,10 @@
+Model: KNeighborsClassifier
+Accuracy: 0.5780
+F1-score: 0.3598
+Accuracy by class:
+class_0: 0.8608
+class_1: 0.2553
+class_2: 0.3407
+class_3: 0.1429
+class_4: 0.0000
+class_5: 0.5000

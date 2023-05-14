@@ -1,0 +1,10 @@
+Model: svm.SVC
+Accuracy: 0.6896
+F1-score: 0.4616
+Accuracy by class:
+class_0: 0.9963
+class_1: 0.3191
+class_2: 0.4725
+class_3: 0.0238
+class_4: 0.0000
+class_5: 0.9615

@@ -1,0 +1,10 @@
+Model: MultinomialNB
+Accuracy: 0.5226
+F1-score: 0.1289
+Accuracy by class:
+class_0: 1.0000
+class_1: 0.0000
+class_2: 0.0000
+class_3: 0.0000
+class_4: 0.0000
+class_5: 0.0385

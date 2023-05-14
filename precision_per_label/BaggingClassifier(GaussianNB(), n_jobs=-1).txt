@@ -1,0 +1,10 @@
+Model: BaggingClassifier(GaussianNB(), n_jobs=-1)
+Accuracy: 0.2788
+F1-score: 0.2988
+Accuracy by class:
+class_0: 0.0000
+class_1: 0.1489
+class_2: 0.6264
+class_3: 0.6429
+class_4: 0.7500
+class_5: 1.0000

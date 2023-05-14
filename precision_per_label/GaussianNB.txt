@@ -1,0 +1,10 @@
+Model: GaussianNB
+Accuracy: 0.2744
+F1-score: 0.2973
+Accuracy by class:
+class_0: 0.0000
+class_1: 0.1489
+class_2: 0.6154
+class_3: 0.6667
+class_4: 0.8333
+class_5: 1.0000

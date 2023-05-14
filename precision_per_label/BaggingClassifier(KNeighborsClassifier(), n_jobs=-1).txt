@@ -1,0 +1,10 @@
+Model: BaggingClassifier(KNeighborsClassifier(), n_jobs=-1)
+Accuracy: 0.5699
+F1-score: 0.3668
+Accuracy by class:
+class_0: 0.8352
+class_1: 0.2553
+class_2: 0.3516
+class_3: 0.2143
+class_4: 0.0000
+class_5: 0.5385

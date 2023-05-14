@@ -1,0 +1,10 @@
+Model: LinearDiscriminantAnalysis
+Accuracy: 0.6674
+F1-score: 0.5178
+Accuracy by class:
+class_0: 0.9158
+class_1: 0.3191
+class_2: 0.4396
+class_3: 0.2619
+class_4: 0.3750
+class_5: 0.9231

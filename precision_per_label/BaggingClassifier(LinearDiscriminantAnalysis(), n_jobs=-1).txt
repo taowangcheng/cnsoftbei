@@ -1,0 +1,10 @@
+Model: BaggingClassifier(LinearDiscriminantAnalysis(), n_jobs=-1)
+Accuracy: 0.6728
+F1-score: 0.5292
+Accuracy by class:
+class_0: 0.9084
+class_1: 0.3191
+class_2: 0.4286
+class_3: 0.2857
+class_4: 0.4167
+class_5: 0.9231

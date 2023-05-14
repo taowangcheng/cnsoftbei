@@ -1,0 +1,10 @@
+Model: ComplementNB
+Accuracy: 0.6660
+F1-score: 0.4734
+Accuracy by class:
+class_0: 0.8535
+class_1: 0.3404
+class_2: 0.6154
+class_3: 0.0238
+class_4: 0.0417
+class_5: 0.9615
