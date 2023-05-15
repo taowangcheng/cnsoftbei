@@ -65,7 +65,7 @@ for model_name, model in models:
     if model_name == 'RandomForestmodel_name(random_state=0, n_jobs=-1)' or model_name == 'DecisionTreemodel_name()' or\
             model_name == 'Baggingmodel_name(RandomForestmodel_name(), n_jobs=-1)' or \
             model_name == 'Baggingmodel_name(DecisionTreemodel_name(), n_jobs=-1)' or \
-            model_name == 'GradientBoostingmodel_name()' or model_name == 'AdaBoostmodel_name()':
+            model_name == 'GradientBoostingmodel_name()' or model_name == 'AdaBoostmodel_name()' or model_name == 'StackingClassifier':
         # 使用原始数据进行模型训练
         results = cross_validate(model, data.drop('label', axis=1), data['label'], cv=KFold(n_splits=10),
                                  scoring=scoring, n_jobs=-1, error_score=0, return_train_score=False, verbose=1)
@@ -84,3 +84,5 @@ for model_name, model in models:
 
 # 将评估结果写入到 CSV 文件中
 results_df.to_csv("model_evaluation_results.csv", index=False)
+
+
