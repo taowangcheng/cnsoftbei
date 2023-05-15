@@ -1,0 +1,10 @@
+Model: StackingClassifier
+Accuracy: 0.8906
+F1-score: 0.8728
+Accuracy by class:
+class_0: 0.9670
+class_1: 0.7234
+class_2: 0.7253
+class_3: 0.9524
+class_4: 0.9167
+class_5: 0.9615
